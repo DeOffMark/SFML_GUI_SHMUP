@@ -1,4 +1,8 @@
+// Code originated and belongs to DeOffMark(Mark Medvedev)
+
+
 #include "Game.h"
+
 
 int main() {
 	srand(unsigned int(std::time(0)));
